@@ -1,5 +1,5 @@
  # Olist E-commerce platform analysis
  
-olist_analysis為Python程式碼
+程式碼：olist_analysis.ipynb
 
-電商平台分析為針對olist分析的報告內容
+分析簡報：電商平台分析.pdf
